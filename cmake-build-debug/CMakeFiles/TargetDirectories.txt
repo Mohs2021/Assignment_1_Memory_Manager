@@ -1,0 +1,3 @@
+/home/parallels/Desktop/Assignment_1_Memory_Manager/cmake-build-debug/CMakeFiles/Assignment_1_Memory_Manager.dir
+/home/parallels/Desktop/Assignment_1_Memory_Manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/Assignment_1_Memory_Manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
